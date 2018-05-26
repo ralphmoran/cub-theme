@@ -1,4 +1,4 @@
-# Cub Bootstrap Dashboard
+# Cub Bootstrap Dashboard (Creative Tim)
 [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/32/original/opt_lbd_thumbnail.jpg "Light Bootstrap Dashboard")
